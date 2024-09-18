@@ -1,0 +1,13 @@
+vec1=seq(1,5)
+vec1
+vec2=seq(1,10,2)
+vec2
+vec3=seq(1,5,length.out=3)
+vec3
+sum(vec1)
+sum(vec3)
+v4=c(2,1,na)
+sum(v4)
+sum(v4,na.rm=TRUE)
+vec1[2]
+vec1[c(2,4)]
